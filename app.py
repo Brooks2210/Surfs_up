@@ -3,7 +3,7 @@
 # @app.route('/')
 # def hello_world():
 #     return 'Hello world'
-# Add these dependencies to the top of your app.py file.
+# Add dependencies to the top of your app.py file.
 import datetime as dt
 import numpy as np
 import pandas as pd
@@ -39,11 +39,11 @@ def welcome():
     return(
     '''
     Welcome to the Climate Analysis API!
-    Available Routes:
-    /api/v1.0/precipitation
-    /api/v1.0/stations
-    /api/v1.0/tobs
-    /api/v1.0/temp/start/end
+    <br>Available Routes:
+    <br>api/v1.0/precipitation
+    <br>api/v1.0/stations
+    <br>api/v1.0/tobs
+    <br>api/v1.0/temp/start/end
     ''')
 # Next, add the precipitation, stations, tobs, and temp routes that we'll need for this 
 # module into our return statement. We'll use f-strings to display them for our investors:
