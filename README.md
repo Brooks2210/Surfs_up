@@ -18,7 +18,7 @@ During the same period described above, there were 1517 observations for the mon
 ![dec_stats.png](https://github.com/Brooks2210/surfs_up/blob/main/Dec_temps.png)
 
 ### Takeaway
-1. Average temperatures are slightly higher in June compared to December in Oahu.
+1. The average temperature and standard .
 2. The minimum temperatures tend to be lower in December compared to June.
 3. Overall the weather is favorable to surfing and Ice cream consumption in both months.
 
