@@ -18,13 +18,11 @@ During the same period described above, there were 1517 observations for the mon
 ![dec_stats.png](https://github.com/Brooks2210/surfs_up/blob/main/Dec_temps.png)
 
 ### Takeaway
-1. The average temperature and standard .
-2. The minimum temperatures tend to be lower in December compared to June.
-3. Overall the weather is favorable to surfing and Ice cream consumption in both months.
+1. The average temperature and standard deviation between the temperatures in June and December are remarkably close together. June is slightly warmer by about three degrees Fahrenheit. 
+2. One interesting finding was that while the high temperatures in June and December are only different by a few degrees, the low temperatures are nearly 10 degrees apart. 
+3. The preliminary data suggest that the weather is ideal in both June and December for a surf and shake shop.
 
 ## Conclusion
 
-From this analysis there does not seem to be a significant difference in temperatures between the 'summer' and 'winter' months on Oahu.
-
-However, before we can recommend proceeding, we strongly suggest looking at other weather parameters such as precipitation and chance of tropical storms. This analysis must be done for all months of the year and for a larger time period than just 8 years. Finally, the accelerating rate of climate change will undoubtedly affect the accuracy of weather prediction models based on historical data. The data currently strongly suggests that the probability of historically 'rare' events increases as the climate changes.
+While the analysis looked at temperatures for both June and December, further analysis needs to be done in regard to other factors. One potential factor not analyzed was precipitation. How many rainy days does Oahu have? Another factor that should be examined is wind speed. Extremely windy days can have just as much of a negative impact as rainy days. Is there a storm season in Oahu that was not captured in just analyzing two months of data? All these factors should be examined before the surf shop is green lighted. 
 
